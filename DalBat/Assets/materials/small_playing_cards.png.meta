@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 6510ed1e59cbf1749ab3ed1058588532
+timeCreated: 1499722988
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: small_playing_cards_0
+    21300002: small_playing_cards_1
+    21300004: small_playing_cards_2
+    21300006: small_playing_cards_3
+    21300008: small_playing_cards_4
+    21300010: small_playing_cards_5
+    21300012: small_playing_cards_6
+    21300014: small_playing_cards_7
+    21300016: small_playing_cards_8
+    21300018: small_playing_cards_9
+    21300020: small_playing_cards_10
+    21300022: small_playing_cards_11
+    21300024: small_playing_cards_12
+    21300026: small_playing_cards_13
+    21300028: small_playing_cards_14
+    21300030: small_playing_cards_15
+    21300032: small_playing_cards_16
+    21300034: small_playing_cards_17
+    21300036: small_playing_cards_18
+    21300038: small_playing_cards_19
+    21300040: small_playing_cards_20
+    21300042: small_playing_cards_21
+    21300044: small_playing_cards_22
+    21300046: small_playing_cards_23
+    21300048: small_playing_cards_24
+    21300050: small_playing_cards_25
+    21300052: small_playing_cards_26
+    21300054: small_playing_cards_27
+    21300056: small_playing_cards_28
+    21300058: small_playing_cards_29
+    21300060: small_playing_cards_30
+    21300062: small_playing_cards_31
+    21300064: small_playing_cards_32
+    21300066: small_playing_cards_33
+    21300068: small_playing_cards_34
+    21300070: small_playing_cards_35
+    21300072: small_playing_cards_36
+    21300074: small_playing_cards_37
+    21300076: small_playing_cards_38
+    21300078: small_playing_cards_39
+    21300080: small_playing_cards_40
+    21300082: small_playing_cards_41
+    21300084: small_playing_cards_42
+    21300086: small_playing_cards_43
+    21300088: small_playing_cards_44
+    21300090: small_playing_cards_45
+    21300092: small_playing_cards_46
+    21300094: small_playing_cards_47
+    21300096: small_playing_cards_48
+    21300098: small_playing_cards_49
+    21300100: small_playing_cards_50
+    21300102: small_playing_cards_51
+    21300104: small_playing_cards_52
+    21300106: small_playing_cards_53
+    21300108: small_playing_cards_54
+    21300110: small_playing_cards_55
+    21300112: small_playing_cards_56
+    21300114: small_playing_cards_57
+    21300116: small_playing_cards_58
+    21300118: small_playing_cards_59
+    21300120: small_playing_cards_60
+    21300122: small_playing_cards_61
+    21300124: small_playing_cards_62
+    21300126: small_playing_cards_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: small_playing_cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 558
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 558
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 558
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_11
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 558
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 558
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 483
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 483
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 483
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 483
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 483
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 410
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 410
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_36
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 410
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_37
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 410
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_38
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 410
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 338
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 338
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_48
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_49
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_50
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 338
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_51
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 338
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_52
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_53
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_54
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_57
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 256
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 181
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 181
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 108
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 108
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 36
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_playing_cards_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 36
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

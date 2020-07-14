@@ -1,0 +1,34 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\DalBat\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\DalBat\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\DalBat\1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\DalBat\1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\DalBat\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\DalBat\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\DalBat\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\DalBat\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.492 seconds
+Platform assembly: F:\DalBat\1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\DalBat\1_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on Reporter
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.562600 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4ec0 -> priority: 1 
+  Thread -> id: 26b0 -> priority: 1 
+  Thread -> id: 1a48 -> priority: 1 
